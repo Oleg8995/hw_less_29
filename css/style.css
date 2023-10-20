@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.dotContainer {
+    width: 100vw;
+    height: 100vh;
+}
+
+.dot {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+   
+}
+
+.color1{
+    background-color: blueviolet;
+}
+
+.color2{
+    background-color: burlywood;
+}
+
+.color3{
+    background-color: rgb(25, 231, 94);
+}
+
+.color4{
+    background-color: rgb(255, 147, 5);
+}
+
+.color5{
+    background-color: rgb(7, 20, 197);
+}
+
+.color6{
+    background-color: rgb(218, 255, 6);
+}
+
+.color7{
+    background-color: rgb(247, 5, 105);
+}
+
+.color8{
+    background-color: rgb(22, 92, 124);
+}
+
+.color9{
+    background-color: rgb(6, 255, 234);
+}
+
+.color10{
+    background-color: rgb(23, 104, 7);
+}
